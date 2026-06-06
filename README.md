@@ -304,6 +304,6 @@ For issues or questions:
 
 ---
 
-**Built with ❤️ by Fabrice**
+**cyuzuzo fabrice**
 
 [Live Demo](https://movie-database-frontend.vercel.app) | [GitHub](https://github.com/Cyuzuzofabrice/movie-site-frontend)
