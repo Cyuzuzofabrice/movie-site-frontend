@@ -7,32 +7,32 @@ A beautiful, responsive movie database web application built with React.js, Tail
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.3.0-06B6D4?logo=tailwind-css)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## ✨ Features
+##  Features
 
 ### Pages & Routes
-- 🏠 **Home Page** - Hero banner with featured movie, movie grid, search & filters
-- 🎬 **Movie Details** - Full movie information with cast, rating, trailer, and descriptions
-- ❤️ **Favorites** - Save and manage your favorite movies with sorting options
-- 🔍 **Search & Filter** - Find movies by title, genre, year, and rating
+-  **Home Page** - Hero banner with featured movie, movie grid, search & filters
+-  **Movie Details** - Full movie information with cast, rating, trailer, and descriptions
+-  **Favorites** - Save and manage your favorite movies with sorting options
+-  **Search & Filter** - Find movies by title, genre, year, and rating
 
 ### Components
-- 📱 **Responsive Navbar** - Mobile-friendly navigation with logo and menu
-- 🎥 **Hero Banner** - Featured movie showcase with CTA buttons
-- 🎞️ **Movie Cards** - Beautiful cards with poster, rating, genres, and hover effects
-- 🔎 **Search Bar** - Real-time movie search with icon
-- 🎛️ **Filter Panel** - Filter by genre, year, and minimum rating
-- 📄 **Pagination** - Navigate through movie pages smoothly
-- 📺 **Footer** - Links, social media, and copyright information
+-  **Responsive Navbar** - Mobile-friendly navigation with logo and menu
+-  **Hero Banner** - Featured movie showcase with CTA buttons
+-  **Movie Cards** - Beautiful cards with poster, rating, genres, and hover effects
+-  **Search Bar** - Real-time movie search with icon
+-  **Filter Panel** - Filter by genre, year, and minimum rating
+-  **Pagination** - Navigate through movie pages smoothly
+-  **Footer** - Links, social media, and copyright information
 
 ### Design Features
-- 🌙 **Dark Mode Theme** - Netflix-inspired dark UI with red accents
-- ✨ **Smooth Animations** - Framer Motion animations throughout
-- 🎨 **Glassmorphism** - Modern glass effect on cards and panels
-- 📱 **Fully Responsive** - Optimized for mobile, tablet, and desktop
-- ♿ **Accessible** - Semantic HTML and ARIA labels
-- 🎯 **Hover Effects** - Interactive card animations and transitions
+-  **Dark Mode Theme** - Netflix-inspired dark UI with red accents
+-  **Smooth Animations** - Framer Motion animations throughout
+-  **Glassmorphism** - Modern glass effect on cards and panels
+-  **Fully Responsive** - Optimized for mobile, tablet, and desktop
+-  **Accessible** - Semantic HTML and ARIA labels
+-  **Hover Effects** - Interactive card animations and transitions
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js 16+
@@ -62,7 +62,7 @@ The app will open at `http://localhost:5173`
 npm run build
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -105,7 +105,7 @@ src/
 - **Inputs**: Dark background with red borders on focus
 - **Backdrop**: Dark gradient overlays on images
 
-## 📦 Dependencies
+##  Dependencies
 
 ### Core
 - **react** (18.2.0) - UI library
@@ -122,7 +122,7 @@ src/
 - **postcss** (8.4.31) - CSS processor
 - **autoprefixer** (10.4.16) - Vendor prefix automation
 
-## 🎬 Features in Detail
+##  Features in Detail
 
 ### Home Page
 - Featured movie hero banner with large background image
@@ -170,7 +170,7 @@ The app uses browser's localStorage to persist favorites:
 - Loads on app startup
 - No backend required for demo
 
-## 🔌 API Integration
+##  API Integration
 
 To connect to a real API (like TMDB):
 
@@ -203,13 +203,13 @@ export const searchMovies = (query) => {
 - **Tablet** (640px - 1024px): 2-3 columns, full navbar
 - **Desktop** (> 1024px): 4 columns, full navigation
 
-## ⌨️ Keyboard Navigation
+##  Keyboard Navigation
 
 - `Tab` - Navigate through interactive elements
 - `Enter` - Activate buttons and links
 - `Escape` - Close mobile menu
 
-## 🌐 Deployment
+##  Deployment
 
 ### Vercel
 ```bash
@@ -231,7 +231,7 @@ git commit -m "Deploy"
 git push
 ```
 
-## 📝 Environment Variables
+##  Environment Variables
 
 Create `.env.local` for configuration:
 ```env
@@ -239,7 +239,7 @@ VITE_TMDB_API_KEY=your_api_key_here
 VITE_API_URL=https://api.themoviedb.org/3
 ```
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Port already in use
 ```bash
@@ -259,11 +259,11 @@ npm run build
 npm run build
 ```
 
-## 📄 License
+##  License
 
 MIT License - feel free to use this project for personal and commercial purposes.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please:
 1. Fork the repository
@@ -272,13 +272,13 @@ Contributions are welcome! Please:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📞 Support
+##  Support
 
 For issues or questions:
 - Open a GitHub issue
-- Email: support@moviedb.com
+- Email: fabricecyuzuzo2@gmaail.com
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - React team for the powerful library
 - Tailwind CSS for utility-first CSS framework
@@ -287,7 +287,7 @@ For issues or questions:
 - React Icons for beautiful icons
 - Unsplash for movie images
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - [ ] TMDB API integration
 - [ ] User authentication
@@ -306,4 +306,4 @@ For issues or questions:
 
 **cyuzuzo fabrice**
 
-[Live Demo](https://movie-database-frontend.vercel.app) | [GitHub](https://github.com/Cyuzuzofabrice/movie-site-frontend)
+ | [GitHub](https://github.com/Cyuzuzofabrice/movie-site-frontend)
